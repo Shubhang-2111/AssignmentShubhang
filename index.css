@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#contentDiv {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#contentDiv a {
+    text-decoration: none;
+}
+
+#contentTitle {
+    margin: 5px 0;
+    color: #007BFF;
+}
